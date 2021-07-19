@@ -1,1 +1,1 @@
-# recording CPU GPU usage
+# Recording CPU GPU usage
